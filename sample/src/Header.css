@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.head{
+    text-align: center;
+    background-color: rgb(208, 236, 236);
+    padding: 1rem;
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
+p.quotes{
+   padding: 10px;
+}
